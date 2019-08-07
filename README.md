@@ -9,3 +9,5 @@
     "semi": true,
     "singleQuote": true
     }
+
+# ESLint 설정
